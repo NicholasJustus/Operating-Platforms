@@ -20,7 +20,8 @@
 
 ## My Design Process
 To design software:
-1. Analyze user requirements and constraints.
-2. Use **design patterns** (Singleton, Iterator) to ensure maintainability.
-3. Evaluate platforms (Linux for servers, Windows/Mac for clients).
-4. Prioritize scalability and resource optimization for smooth performance.
+1. Analyze user requirements and constraints to align the system with client goals.
+2. Use design patterns (Singleton, Iterator) to ensure maintainability and efficiency.
+3. Implement REST APIs to facilitate communication between the client-side and server-side components. This modular approach enhances scalability and supports distributed systems.
+4. Evaluate platforms (Linux for servers, Windows/Mac for clients) for optimal deployment and performance.
+5. Prioritize scalability and resource optimization to ensure smooth performance across all supported platforms.
